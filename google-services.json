@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "884853415800",
+    "firebase_url": "https://home-for-doggo.firebaseio.com",
+    "project_id": "home-for-doggo",
+    "storage_bucket": "home-for-doggo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884853415800:android:1445406498c8e1cc",
+        "android_client_info": {
+          "package_name": "com.doggo.woof"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884853415800-uq21rvpehdbkc8t0h1kr8o266unoem3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.doggo.woof",
+            "certificate_hash": "42544f6418057ef2732fc05ca6d0550b2c85c6f5"
+          }
+        },
+        {
+          "client_id": "884853415800-2q4a32pou4o34i2im8rem858hc9ofne7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQFW0UuzmXLCsz8ZfqfeyHnzui-W2h_E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884853415800-2q4a32pou4o34i2im8rem858hc9ofne7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
